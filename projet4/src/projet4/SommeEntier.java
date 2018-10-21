@@ -23,7 +23,7 @@ public class SommeEntier {
 			 System.out.println("Voulez-vous saisir la valeur n ?");
 			 n = scanner.nextInt();
 			 System.out.println("Le resultat final 2 est " + SommeEntier(n));
-		         
+		        // 
 		 }     
 
 }
